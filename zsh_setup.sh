@@ -7,4 +7,5 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 gh repo clone romkatv/powerlevel10k $ZSH_CUSTOM/themes/powerlevel10k
 
-echo ZSH_THEME="powerlevel10k/powerlevel10k" >> ./zshrc 
+
+echo ZSH_THEME="powerlevel10k/powerlevel10k" >> ~/.zshrc 
