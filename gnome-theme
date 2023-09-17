@@ -1,0 +1,9 @@
+# Resources
+- Terminal theme
+  https://github.com/nordtheme/gnome-terminal
+- gnome theme and icons ++ all Resources
+	theme: https://github.com/EliverLara/Nordic
+	sources: https://github.com/adekmaulana/nord
+- neovim theme:
+	1. {"shaunsingh/nord.nvim"}, #better
+	2. {"AlexvZyl/nordic.nvim"},

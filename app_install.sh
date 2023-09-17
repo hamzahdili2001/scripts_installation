@@ -21,3 +21,7 @@ sudo flatpak install flathub com.mattjakeman.ExtensionManager -y
 sudo flatpak install flathub com.getpostman.Postman -y
 sudo flatpak install flathub org.gnome.Boxes -y
 sudo flatpak install flathub tv.kodi.Kodi -y
+sudo flatpak install flathub de.haeckerfelix.Shortwave -y
+sudo flatpak install flathub org.kde.okular -y
+sudo flatpak install flathub net.cozic.joplin_desktop -y
+sudo flatpak install flathub com.github.KRTirtho.Spotube -y
