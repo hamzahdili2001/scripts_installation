@@ -8,12 +8,10 @@ sudo nala install git -y
 echo '###Configure Git..'
 
 echo "Enter the Global Username for Git:"
-read GITUSER='hamzahdili2001'
-git config --global user.name "${GITUSER}"
+git config --global user.name "hamzahdili2001"
 
 echo "Enter the Global Email for Git:"
-read GITEMAIL='hdilihamza955@gmail.com'
-git config --global user.email "${GITEMAIL}"
+git config --global user.email "hdilihamza955@gmail.com"
 
 echo 'Git has been configured!'
 git config --list

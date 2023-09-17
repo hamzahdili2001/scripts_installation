@@ -3,8 +3,7 @@
 
 # install vim
 sudo nala install vim -y
-sudo nala install nvim -y
-
+flatpak install flathub io.neovim.nvim
 
 # lazyvim config
 
