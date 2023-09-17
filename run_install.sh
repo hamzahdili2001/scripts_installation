@@ -16,3 +16,4 @@ source ./vim_config.sh
 source ./flatpak_config.sh
 source ./zsh_setup.sh
 source ./app_install.sh
+source ./font_downloader.sh
